@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="20 20 260 260" width="1200" height="1200" role="img" aria-hidden="true">
+<defs>
+<clipPath id="cl"><circle cx="0" cy="0" r="23"/></clipPath>
+</defs>
+<style>.fl1{animation:fl 7s ease-in-out infinite}.fl2{animation:fl 9s ease-in-out infinite reverse}.fl3{animation:fl 11s ease-in-out infinite}.rot{transform-origin:150px 150px;animation:rot 60s linear infinite}@keyframes fl{0%,100%{transform:translate(0,0)}50%{transform:translate(2.4px,-3px)}}@keyframes rot{to{transform:rotate(360deg)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g class="rot"><circle cx="150" cy="150" r="107.5" fill="none" stroke="#c98f5a" stroke-width="1.5"/>
+<circle cx="150" cy="150" r="111" fill="none" stroke="#1e3d57" stroke-width=".8" stroke-dasharray="2 5" opacity=".7"/></g>
+<g transform="translate(165.59 39.09) rotate(-20)"><g class="fl1"><path d="M-34,0 C-30,-24 8,-30 34,-12 C24,12 -12,22 -34,0Z" fill="#8aa793" opacity="1"/></g></g>
+<g transform="translate(232.49 75.73) rotate(25)"><g class="fl2"><path d="M-30,10 C-30,-14 -6,-26 14,-20 C30,-14 34,6 24,22 C8,14 -12,16 -30,10Z" fill="#c98340" opacity="1"/></g></g>
+<g transform="translate(44.75 188.31) rotate(-28)"><g class="fl3"><path d="M-14,-34 C10,-30 22,-4 14,24 C4,36 -16,30 -20,8 C-22,-6 -20,-26 -14,-34Z" fill="#e9d7b3" opacity="1"/></g></g>
+<g transform="translate(74.39 233.98) rotate(10)"><g class="fl1"><path d="M-18,-26 C14,-34 30,-10 22,16 C10,34 -22,28 -26,2 C-27,-10 -24,-20 -18,-26Z" fill="#c9a066" opacity="0.95"/></g></g>
+<g transform="translate(130.55 260.3) rotate(160)"><g class="fl2"><path d="M-14,-34 C10,-30 22,-4 14,24 C4,36 -16,30 -20,8 C-22,-6 -20,-26 -14,-34Z" fill="#6f9a86" opacity="1"/></g></g>
+<g transform="translate(206.5 247.86) rotate(200)"><g class="fl3"><path d="M-30,10 C-30,-14 -6,-26 14,-20 C30,-14 34,6 24,22 C8,14 -12,16 -30,10Z" fill="#e9d7b3" opacity="1"/></g></g>
+<g class="fl3"><circle cx="207.28" cy="257.72" r="19" fill="#1d4a68"/><path d="M188.28,257.72 A19,19 0 0 1 207.28,238.72" stroke="#c98340" stroke-width="1.4" fill="none"/></g>
+<g transform="translate(267.93 188.32)"><g clip-path="url(#cl)" class="fl2"><circle r="23" fill="#f6efe2"/>
+<line x1="-24" y1="-20" x2="24" y2="-20" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="-15" x2="24" y2="-15" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="-10" x2="24" y2="-10" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="-5" x2="24" y2="-5" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="0" x2="24" y2="0" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="5" x2="24" y2="5" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="10" x2="24" y2="10" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="15" x2="24" y2="15" stroke="#1e3d57" stroke-width="1"/>
+<line x1="-24" y1="20" x2="24" y2="20" stroke="#1e3d57" stroke-width="1"/>
+</g></g>
+<circle cx="200.44" cy="36.72" r="2.6" fill="#1e3d57"/>
+<circle cx="214" cy="39.15" r="2.6" fill="#c98340"/>
+<circle cx="271.33" cy="162.75" r="2.6" fill="#1e3d57"/>
+<circle cx="26" cy="150" r="2.6" fill="#8aa793"/>
+<circle cx="40.01" cy="86.5" r="2.6" fill="#1e3d57"/>
+<circle cx="98.02" cy="38.52" r="2.6" fill="#c98340"/>
+<path d="M70,70 C90,40 130,30 168,38" fill="none" stroke="#1e3d57" stroke-width="1" opacity=".7"/>
+<path d="M232,215 C210,250 165,262 128,254" fill="none" stroke="#c98340" stroke-width="1" opacity=".8"/>
+</svg>

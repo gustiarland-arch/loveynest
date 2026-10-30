@@ -1,0 +1,15 @@
+LoveyNest - versi siap pakai (vendor dan tampilan sudah dibangun).
+1. Ekstrak folder us-and-us (mis. ke C:\us-and-us). Butuh XAMPP 8.4/8.5.
+2. Buka XAMPP, Start Apache dan MySQL.
+3. Di phpMyAdmin buat database kosong bernama usandus (utf8mb4_unicode_ci).
+4. Klik dua kali jalankan.bat. Ekstensi PHP yang dibutuhkan diaktifkan otomatis (php.ini XAMPP tidak diubah).
+5. Buka http://localhost:8000
+Tidak perlu composer install atau npm install. Panduan lengkap: docs/instalasi-xampp.md
+
+Menyala otomatis dan dibuka dari HP (opsional):
+6. pasang-otomatis.bat  = server menyala sendiri setiap komputer dinyalakan (hapus-otomatis.bat untuk membatalkan).
+7. buka-akses-hp.bat    = buka firewall dan tampilkan alamat untuk HP di WiFi yang sama.
+Panduan: docs/buka-dari-hp.md
+
+Enkripsi end-to-end (v41): isi dikunci di browser, dan itu hanya bisa di http://localhost atau alamat https://.
+Dari HP lewat alamat WiFi (http://192.168.x.x) menyimpan isi akan diblokir. Untuk uji coba seperti itu isi E2E_ENABLED=false di .env, lalu jalankan ulang.

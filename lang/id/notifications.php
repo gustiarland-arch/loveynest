@@ -1,0 +1,38 @@
+<?php
+
+return [
+    'chat_title' => 'Pesan baru dari :name',
+    'chat_hidden' => 'Buka LoveyNest untuk membacanya.',
+    'event_body' => 'Acara pribadimu: :when',
+    'event_body_shared' => 'Acara bersama: :when',
+    'task_body' => 'Tugas penting, tenggat :when',
+    'task_body_shared' => 'Tugas bersama yang penting, tenggat :when',
+    'joined_title' => ':name sudah bergabung',
+    'joined_body' => 'Our Space kalian siap dipakai berdua.',
+    'ended_title' => ':name mengakhiri ruang pasangan',
+    'ended_body' => 'Our Space dan chat bersama tidak lagi bisa dibuka. Datamu sendiri tetap aman.',
+    'test_title' => 'Notifikasi uji',
+    'test_body' => 'Kalau ini muncul, perangkat ini siap menerima notifikasi.',
+    'reaction_title' => ':name memberi reaksi :emoji',
+    'app_updated_title' => 'LoveyNest diperbarui',
+    'app_updated_body' => 'Ada fitur baru. Buka aplikasi dan muat ulang untuk memakainya.',
+    'arena_title' => ':name mengajakmu main',
+    'arena_body' => 'Ayo main :game bareng. Buka LoveyNest untuk menjawab ajakannya.',
+    'digest_day' => 'Ringkasan hari ini',
+    'digest_week' => 'Ringkasan minggu ini',
+    'digest_body' => ':tasks tugas terbuka, :events acara.',
+    'nudge_body' => 'Balas dengan satu ketukan di LoveyNest.',
+    'nudge' => [
+        'peluk' => ':name mengirim pelukan',
+        'kangen' => ':name kangen kamu',
+        'cium' => ':name mengirim ciuman',
+        'semangat' => ':name mengirim semangat untukmu',
+    ],
+    'activity' => [
+        'task_created' => ':name menambahkan tugas bersama',
+        'task_completed' => ':name menyelesaikan tugas bersama',
+        'event_created' => ':name menambahkan acara bersama',
+        'letter_sent' => ':name menulis surat untukmu',
+        'photo_added' => ':name menambahkan foto ke album bersama',
+    ],
+];
