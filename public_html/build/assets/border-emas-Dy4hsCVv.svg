@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" width="1200" height="1200" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dc9a"/><stop offset=".35" stop-color="#c9a24a"/><stop offset=".65" stop-color="#a8791f"/><stop offset="1" stop-color="#e6c877"/></linearGradient>
+<path id="s4" d="M0,-1 C0.12,-0.3 0.3,-0.12 1,0 C0.3,0.12 0.12,0.3 0,1 C-0.12,0.3 -0.3,0.12 -1,0 C-0.3,-0.12 -0.12,-0.3 0,-1Z"/>
+</defs>
+<style>.tw{transform-box:fill-box;transform-origin:center;animation:tw 3s ease-in-out infinite}.shim{animation:shim 6s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.55;transform:scale(.8)}50%{opacity:1;transform:scale(1.12)}}@keyframes shim{0%,100%{opacity:.9}50%{opacity:.6}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g class="shim">
+<circle cx="150" cy="150" r="107" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<circle cx="150" cy="150" r="114" fill="none" stroke="url(#gold)" stroke-width="1.4"/>
+</g>
+<g transform="translate(150 36) rotate(0)">
+<path d="M0,-17 C4,-10 7,-6 0,-1 C-7,-6 -4,-10 0,-17Z" fill="url(#gold)"/>
+<path d="M0,-1 C10,-3 18,-10 20,-19 C12,-15 5,-12 0,-8 C-5,-12 -12,-15 -20,-19 C-18,-10 -10,-3 0,-1Z" fill="url(#gold)" opacity=".95"/>
+<path d="M-4,2 C-12,5 -26,4 -34,-2 M4,2 C12,5 26,4 34,-2" fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+<circle cx="0" cy="3.5" r="2.4" fill="#e6c877"/></g>
+<g transform="translate(150 264) rotate(180)">
+<path d="M0,-17 C4,-10 7,-6 0,-1 C-7,-6 -4,-10 0,-17Z" fill="url(#gold)"/>
+<path d="M0,-1 C10,-3 18,-10 20,-19 C12,-15 5,-12 0,-8 C-5,-12 -12,-15 -20,-19 C-18,-10 -10,-3 0,-1Z" fill="url(#gold)" opacity=".95"/>
+<path d="M-4,2 C-12,5 -26,4 -34,-2 M4,2 C12,5 26,4 34,-2" fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+<circle cx="0" cy="3.5" r="2.4" fill="#e6c877"/></g>
+<g transform="translate(260.5 150)"><use class="tw" style="animation-delay:0.0s" href="#s4" xlink:href="#s4" transform="scale(13)" fill="url(#gold)"/></g>
+<g transform="translate(39.5 150)"><use class="tw" style="animation-delay:1.2s" href="#s4" xlink:href="#s4" transform="scale(13)" fill="url(#gold)"/></g>
+<g transform="translate(221.03 65.35)"><use class="tw" style="animation-delay:0.5s" href="#s4" xlink:href="#s4" transform="scale(5.120000000000001)" fill="#f3dc9a"/></g>
+<g transform="translate(221.03 234.65)"><use class="tw" style="animation-delay:1.2s" href="#s4" xlink:href="#s4" transform="scale(4.16)" fill="#f3dc9a"/></g>
+<g transform="translate(78.97 234.65)"><use class="tw" style="animation-delay:1.9s" href="#s4" xlink:href="#s4" transform="scale(5.120000000000001)" fill="#f3dc9a"/></g>
+<g transform="translate(78.97 65.35)"><use class="tw" style="animation-delay:2.5999999999999996s" href="#s4" xlink:href="#s4" transform="scale(4.16)" fill="#f3dc9a"/></g>
+<circle cx="179.51" cy="39.88" r=".9" fill="#c9a24a"/>
+<circle cx="207" cy="51.27" r=".9" fill="#c9a24a"/>
+<circle cx="230.61" cy="69.39" r=".9" fill="#c9a24a"/>
+<circle cx="248.73" cy="93" r=".9" fill="#c9a24a"/>
+<circle cx="260.12" cy="120.49" r=".9" fill="#c9a24a"/>
+<circle cx="260.12" cy="179.51" r=".9" fill="#c9a24a"/>
+<circle cx="248.73" cy="207" r=".9" fill="#c9a24a"/>
+<circle cx="230.61" cy="230.61" r=".9" fill="#c9a24a"/>
+<circle cx="207" cy="248.73" r=".9" fill="#c9a24a"/>
+<circle cx="179.51" cy="260.12" r=".9" fill="#c9a24a"/>
+<circle cx="120.49" cy="260.12" r=".9" fill="#c9a24a"/>
+<circle cx="93" cy="248.73" r=".9" fill="#c9a24a"/>
+<circle cx="69.39" cy="230.61" r=".9" fill="#c9a24a"/>
+<circle cx="51.27" cy="207" r=".9" fill="#c9a24a"/>
+<circle cx="39.88" cy="179.51" r=".9" fill="#c9a24a"/>
+<circle cx="39.88" cy="120.49" r=".9" fill="#c9a24a"/>
+<circle cx="51.27" cy="93" r=".9" fill="#c9a24a"/>
+<circle cx="69.39" cy="69.39" r=".9" fill="#c9a24a"/>
+<circle cx="93" cy="51.27" r=".9" fill="#c9a24a"/>
+<circle cx="120.49" cy="39.88" r=".9" fill="#c9a24a"/>
+</svg>

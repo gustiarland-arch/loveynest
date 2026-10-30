@@ -1,0 +1,1 @@
+import{R as e,S as t}from"./createLucideIcon-JMawEytv.js";var n=[`width`,`height`],r={__name:`Emblem`,props:{size:{type:Number,default:160}},setup(r){return(i,a)=>(e(),t(`img`,{src:`/img/loveynest-mark.png`,alt:``,width:r.size,height:Math.round(r.size*.94),class:`object-contain`,draggable:`false`},null,8,n))}};export{r as t};

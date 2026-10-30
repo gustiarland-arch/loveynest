@@ -1,0 +1,1 @@
+.ui-dialog[open][data-v-35bcad92]{animation:sheet-in-35bcad92 .26s var(--ease-gentle)}@media (width>=640px){.ui-dialog[open][data-v-35bcad92]{animation-name:dialog-in-35bcad92}}@keyframes sheet-in-35bcad92{0%{opacity:0;transform:translateY(24px)}}@keyframes dialog-in-35bcad92{0%{opacity:0;transform:scale(.97)}}

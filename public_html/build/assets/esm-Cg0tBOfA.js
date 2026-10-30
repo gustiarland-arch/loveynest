@@ -1,0 +1,1 @@
+import{registerPlugin as e}from"./dist-B4_2iSxJ.js";var t=e(`PushNotifications`,{});export{t as PushNotifications};
